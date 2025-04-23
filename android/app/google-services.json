@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347685174226",
+    "project_id": "gemchat-12ba0",
+    "storage_bucket": "gemchat-12ba0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347685174226:android:be552f01eee4b999b7260b",
+        "android_client_info": {
+          "package_name": "com.example.gemchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347685174226-67fsnaruv7lkk3ligun47f26thvutobo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gemchat",
+            "certificate_hash": "fa5ce8436f4e86db311c1385314a03e2984081fc"
+          }
+        },
+        {
+          "client_id": "347685174226-69b4o1prtvdeu655nevmuc3jr4a57cf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWK1h5USb9uzOqm-CmMYOfTLscJrX8b-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347685174226-69b4o1prtvdeu655nevmuc3jr4a57cf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

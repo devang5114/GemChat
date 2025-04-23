@@ -1,0 +1,31 @@
+name: gemchat
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_vertexai: ^1.5.0
+  dio: ^5.8.0+1
+  flutter_bloc: ^9.1.0
+  bloc: ^9.0.0
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
+  shared_preferences:
+  flutter_spinkit:
+  equatable: 
+  intl:
+  uuid:
+
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
